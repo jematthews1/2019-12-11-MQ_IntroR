@@ -21,7 +21,7 @@ carpentry: "dc"
 # dc-genomics: for Data Carpentry Genomics
 # dc-socsci: for Data Carpentry Social Sciences
 # dc-geospatial: for Data Carpentry Geospatial
-curriculum: "dc-mqr"
+curriculum: "dc-socsci"
 
 # If there is both an R and python official version of a curriculum, change the
 # value of the variable below ("flavor") to get the schedule updated accordingly
